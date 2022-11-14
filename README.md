@@ -27,7 +27,7 @@ Bootcamp Module 19 Challenge - Building a text editor as a PWA
 
 ## Usage
 
-- Link to the demo video [https://app.castify.com/watch/c4bf2e54-5929-45ce-a43e-d701ed476d15](https://app.castify.com/watch/c4bf2e54-5929-45ce-a43e-d701ed476d15)
+- Link to Heroku deployment [https://fast-lowlands-58659.herokuapp.com/](https://fast-lowlands-58659.herokuapp.com/)
 
 - Link to the Github Repository [https://github.com/BranBao1995/PWA-Text-Editor](https://github.com/BranBao1995/PWA-Text-Editor)
 
